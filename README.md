@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Satyam Mishra</h1>
-<h3 align="center">🚀 CSE (AI) Student | 🐍 DS&AI | 🌐 Web Developer</h3>
+<h3 align="center">🚀 CSE (AI) Student | 🐍 Python | 🌐 Web Developer | 👨‍💻Data Science  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Science+Enthusiast;Web+Developer;Future+AI+Engineer" />
