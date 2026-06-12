@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F3C,50:1565C0,100:00B4D8&height=220&section=header&text=Satyam%20Mishra&fontSize=56&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Data%20Science%20%26%20AI%20Graduate%20%40%20BBDU&descAlignY=60&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F3C,50:1565C0,100:00B4D8&height=220&section=header&text=Satyam%20Mishra&fontSize=56&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Data%20Science%20%2526%20AI%20Graduate%20%40%20BBDU&descAlignY=60&descSize=17&animation=fadeIn" />
 
 <div align="center">
 
