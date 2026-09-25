@@ -1,3 +1,40 @@
+<div align="center">
+
+# Satyam Mishra
+
+### Full-Stack Developer • Data Analyst • AI Graduate
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+full-stack+applications+with+MERN;Turning+data+into+actionable+business+insights;Exploring+AI-powered+software+and+automation;Clean+Code+%7C+APIs+%7C+Data+%7C+AI" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-satyam0211-161B22?style=for-the-badge&logo=github)](https://github.com/satyam0211)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsatyam3004@gmail.com)
+[![Location](https://img.shields.io/badge/Lucknow-India-238636?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an **entry-level Full-Stack Developer and Data Analyst** with a B.Tech in
+Computer Science Engineering with an **AI Specialization**.
+
+I enjoy building complete products — from responsive interfaces and REST APIs
+to databases, authentication, testing, and AI-powered features.
+
+My technical interests sit at the intersection of:
+
+```text
+Full-Stack Development
+        +
+Data Analysis & Visualization
+        +
+Artificial Intelligence
+        +
+Software Engineering
+
 ## ⚙️ Tech Arsenal
 
 <div align="center">
@@ -79,13 +116,5 @@
 `CI/CD` `Version Control` `TDD` `AI-Assisted Development`
 
 </div>
-
-[![Gmail](https://img.shields.io/badge/Gmail-smsatyam3004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsatyam3004@gmail.com)
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:1565C0,100:0D1F3C&height=120&section=footer"/>
 
         
