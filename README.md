@@ -1,45 +1,66 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050609,50:111827,100:00D9FF&text=SATYAM%20MISHRA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=17&descAlignY=62&animation=fadeIn"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ANIMATED HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050609,35:111827,70:312E81,100:00D9FF&height=240&section=header&text=SATYAM%20MISHRA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20AI%20%26%20DATA&descAlignY=62&descSize=18&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE+%E2%97%89;WELCOME+TO+MY+DEVELOPER+SPACE;BUILDING+%7C+LEARNING+%7C+EXPERIMENTING;FULL+STACK+%2B+AI%2FML;TURNING+IDEAS+INTO+REALITY" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=FULL-STACK+DEVELOPER;MERN+STACK+DEVELOPER;AI+%26+DATA+ENTHUSIAST;MACHINE+LEARNING+%7C+NLP+%7C+GENERATIVE+AI;BUILDING+REAL-WORLD+APPLICATIONS;WELCOME+TO+MY+DEVELOPER+SPACE+%E2%9A%A1" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D9FF?style=for-the-badge&labelColor=050609"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-8B5CF6?style=for-the-badge&labelColor=050609"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%2B%20AI-00D9FF?style=for-the-badge&labelColor=050609"/>
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20OPPORTUNITIES-00D9FF?style=for-the-badge&labelColor=050609"/>
+<img src="https://img.shields.io/badge/LOCATION-LUCKNOW%2C%20INDIA-8B5CF6?style=for-the-badge&labelColor=050609"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%2B%20AI%20%2B%20DATA-00D9FF?style=for-the-badge&labelColor=050609"/>
+
+<br><br>
+
+<a href="https://github.com/satyam0211">
+<img src="https://img.shields.io/badge/GITHUB-SATYAM0211-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=050609"/>
+</a>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         PROFILE SYSTEM                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <table>
 <tr>
-<td width="55%" valign="top">
 
-# `01 / INTRODUCTION`
+<td width="58%" valign="top">
 
-## Hi, I'm **Satyam Mishra**
+# `01 / DEVELOPER PROFILE`
 
-### `FULL STACK DEVELOPER`
-### `AI / ML ENTHUSIAST`
+## Hi, I'm **Satyam Mishra** 👋
 
-I build modern web applications, experiment with Artificial Intelligence and Machine Learning, and enjoy turning ideas into practical products.
+### `FULL-STACK DEVELOPER`
+### `MERN STACK • AI • DATA SCIENCE`
 
-I'm currently focused on improving my full-stack development skills while exploring AI-powered applications and real-world software solutions.
+B.Tech Computer Science & Engineering graduate with **AI specialization**, focused on full-stack web development, software development, data science and AI-powered applications.
+
+I work with **JavaScript, React.js, Node.js, Express.js, MongoDB, Python, SQL and AI/API integrations**, with hands-on experience building full-stack applications and data-driven projects.
+
+I enjoy solving problems, learning quickly and turning ideas into practical software.
 
 <br>
 
 ```text
-┌──────────────────────────────────────┐
-│                                      │
-│  USER        satyam0211              │
-│  ROLE        Developer               │
-│  FOCUS       Full Stack + AI/ML      │
-│  STATUS      ● BUILDING              │
-│  LOCATION    India                   │
-│                                      │
-└──────────────────────────────────────┘
+┌─────────────────────────────────────────┐
+│              SYSTEM PROFILE             │
+├─────────────────────────────────────────┤
+│                                         │
+│  USER       : SATYAM0211                │
+│  ROLE       : FULL-STACK DEVELOPER      │
+│  STACK      : MERN                      │
+│  AI         : ML / NLP / GEN AI         │
+│  DATA       : PYTHON / SQL / POWER BI   │
+│  LOCATION   : LUCKNOW, INDIA            │
+│  STATUS     : ● AVAILABLE               │
+│                                         │
+└─────────────────────────────────────────┘
