@@ -1,83 +1,63 @@
 <div align="center">
 
-# SATYAM MISHRA
+<!-- HERO -->
 
-### Full-Stack Developer · Data Analyst · AI Graduate
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=I+build+web+applications.;I+work+with+data.;I+experiment+with+AI.;I+turn+ideas+into+working+software." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00D9FF&height=220&section=header&text=SATYAM%20MISHRA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Building+modern+web+experiences+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+ideas+into+working+products+%E2%9A%A1" />
+
+<br><br>
+
 <a href="https://github.com/satyam0211">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-satyam0211-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:smsatyam3004@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/satyam0211?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-## `01` — ABOUT ME
+## ◉ PROFILE AT A GLANCE
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### Hey 👋
+### 👨‍💻 SATYAM MISHRA
 
-I'm **Satyam Mishra**, a Computer Science Engineering graduate with an **AI specialization**.
+**Full Stack Developer**  
+**AI / ML Enthusiast**
 
-I enjoy building software that combines:
+I enjoy building modern web applications, experimenting with Artificial Intelligence and Machine Learning, and turning ideas into practical products.
 
-**Web Development + Data + Artificial Intelligence**
-
-My main focus is full-stack development with the **MERN stack**, while continuing to develop my skills in data analysis, machine learning and AI-powered applications.
-
-I'm particularly interested in turning ideas into practical, usable products.
+Currently focused on improving my full-stack development skills while exploring AI-powered applications.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-```yaml
-name: Satyam Mishra
+### ⚡ CURRENT STATUS
 
-role:
-  - Full-Stack Developer
-  - Data Analyst
-  - AI Graduate
-
-location: Lucknow, India
-
-education:
-  degree: B.Tech CSE
-  specialization: AI
-  university: BBDU
-  cgpa: 8.32
-
-primary_stack:
-  frontend: React.js
-  backend: Node.js
-  database: MongoDB
-
-interests:
-  - Software Engineering
-  - Data Analytics
-  - Artificial Intelligence
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=140&section=footer" width="100%"/>
-
-</div>
-```
-
-        
+```text
+┌──────────────────────────────┐
+│ SYSTEM STATUS                │
+│                              │
+│ ● AVAILABLE                  │
+│                              │
+│ FOCUS                        │
+│ Full Stack + AI/ML           │
+│                              │
+│ LOCATION                     │
+│ India 🇮🇳                    │
+│                              │
+│ STATUS                       │
+│ Building & Learning...       │
+└──────────────────────────────┘
